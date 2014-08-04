@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://d.zerogame.info:81/ios/client.ipa</string>
+					<string>http://nb.baidupcs.com/file/433443e85a9184e911d443c4eecd2e6f?fid=3492495349-250528-436878102951502&time=1407142179&sign=FDTAXER-DCb740ccc5511e5e8fedcff06b081203-ZsuQdMwFPcsVcbayfWDFI2k45fI%3D&to=nbb&fm=Nin,B,T,t&newver=1&newfm=1&expires=1407144361&rt=sh&r=431400746&mlogid=1043880977&sh=1&vuk=3492495349&vbdid=585280034</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.xneo.bdwcs</string>
 				<key>bundle-version</key>
-				<string>1.3.0</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
